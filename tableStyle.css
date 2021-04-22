@@ -13,3 +13,6 @@ form{
 .button{
 	margin-top:5px;
 }
+#advanced_button{
+	background-color: blue;
+}
